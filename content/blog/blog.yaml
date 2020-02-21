@@ -1,0 +1,8 @@
+- title: "Test"
+  title_detail: "Chemin du boiron"
+  slug: "/test"
+  category: "Photography"
+  color: "black"
+  images: "color"
+  cover: "./test/boiron_head.jpg"
+  desc: "Photos prises sur le sentier du Boiron à Nyon."

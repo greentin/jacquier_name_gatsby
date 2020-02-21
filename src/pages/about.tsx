@@ -15,11 +15,9 @@ const About = () => {
     <Layout>
       <SEO title="About | Jodie" desc="Hi. I'm LekoArts! You can visit my website or my other Gatsby projects." />
       <AnimatedBox style={pageAnimation} py={[6, 6, 6, 8]} px={[6, 6, 8, 6, 8, 13]}>
-        <h1>Hi. I'm LekoArts!</h1>
-        <p>
-          You can visit my <a href="https://www.lekoarts.de/en">website</a> or my other{' '}
-          <a href="https://gatsby-starter-portfolio.netlify.com">Gatsby projects</a>.
-        </p>
+        <h1>Antoine Jacquier</h1>
+        <p>Bienvenue sur ma page personnelle. </p>
+        <p>Photographe amateur depuis de nombreuses années, vous trouverez ici des photos de mes voyages, ainsi que des photos regroupées par thèmes.</p>
       </AnimatedBox>
     </Layout>
   )
